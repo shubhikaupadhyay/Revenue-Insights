@@ -45,10 +45,8 @@ This dashboard serves as a powerful tool for both users and stakeholders, enabli
 
 ## Dataset:
 
-The dataset used for this dashboard is graciously provided by stakeholders, ensuring the accuracy and relevance of the insights generated.
+https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 ## Data Visualization Tool:
 
-Built with Power BI, a leading data visualization tool, this dashboard not only ensures clarity and accuracy in data representation but also offers an interactive and dynamic user experience.
-
-Explore the Revenue Insights Dashboard and unlock the potential within your data to drive informed decisions in the ever-evolving landscape of the hospitality industry.
+Power BI
